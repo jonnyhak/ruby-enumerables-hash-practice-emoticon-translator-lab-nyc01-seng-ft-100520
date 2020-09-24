@@ -23,5 +23,5 @@ def get_english_meaning(path, emoticon)
       return k
     end
   end
-  return "Sorry, that emoticon was n"
+  return "Sorry, not found"
 end
